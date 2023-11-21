@@ -1,0 +1,499 @@
+Rooster
+92.44 kg
+11 years old
+$34.05
+
+Horse
+67.24 kg
+6 years old
+$72.94
+
+Goat
+91.18 kg
+14 years old
+$19.05
+
+Duck
+79.75 kg
+3 years old
+$37.63
+
+Sheep
+56.17 kg
+6 years old
+$66.13
+
+Mule
+77.50 kg
+6 years old
+$89.21
+
+Goat
+62.65 kg
+7 years old
+$36.71
+
+Cow
+92.89 kg
+16 years old
+$92.90
+
+Rooster
+40.69 kg
+5 years old
+$32.44
+
+Rooster
+80.56 kg
+13 years old
+$62.67
+
+Duck
+73.63 kg
+9 years old
+$109.52
+
+Turkey
+89.47 kg
+2 years old
+$101.44
+
+Cow
+64.54 kg
+5 years old
+$129.48
+
+Donkey
+47.26 kg
+19 years old
+$82.86
+
+Mule
+32.95 kg
+15 years old
+$94.52
+
+Pig
+61.84 kg
+14 years old
+$57.82
+
+Horse
+31.60 kg
+11 years old
+$84.59
+
+Donkey
+55.81 kg
+2 years old
+$63.48
+
+Cow
+81.64 kg
+6 years old
+$61.98
+
+Goat
+62.83 kg
+4 years old
+$105.48
+
+Pig
+71.29 kg
+15 years old
+$119.56
+
+Goat
+76.87 kg
+10 years old
+$33.01
+
+Goat
+32.59 kg
+5 years old
+$76.52
+
+Mule
+32.05 kg
+6 years old
+$67.28
+
+Horse
+78.31 kg
+2 years old
+$114.94
+
+Chicken
+46.36 kg
+6 years old
+$37.28
+
+Chicken
+87.22 kg
+12 years old
+$42.25
+
+Rooster
+18.01 kg
+2 years old
+$89.21
+
+Sheep
+21.52 kg
+18 years old
+$81.25
+
+Duck
+43.84 kg
+14 years old
+$81.82
+
+Mule
+91.63 kg
+10 years old
+$33.82
+
+Chicken
+73.09 kg
+12 years old
+$129.71
+
+Chicken
+10.36 kg
+17 years old
+$65.55
+
+Chicken
+53.20 kg
+19 years old
+$126.36
+
+Rabbit
+92.44 kg
+11 years old
+$106.06
+
+Horse
+91.45 kg
+15 years old
+$30.24
+
+Rooster
+69.94 kg
+14 years old
+$85.75
+
+Sheep
+47.53 kg
+5 years old
+$18.01
+
+Chicken
+99.01 kg
+5 years old
+$36.48
+
+Rabbit
+22.33 kg
+5 years old
+$39.48
+
+Rooster
+43.57 kg
+19 years old
+$119.56
+
+Pig
+96.85 kg
+5 years old
+$37.74
+
+Pig
+78.04 kg
+19 years old
+$117.83
+
+Horse
+19.18 kg
+8 years old
+$20.90
+
+Donkey
+15.58 kg
+13 years old
+$34.28
+
+Goat
+27.01 kg
+11 years old
+$114.71
+
+Duck
+15.94 kg
+2 years old
+$81.71
+
+Duck
+60.67 kg
+16 years old
+$95.90
+
+Cow
+79.48 kg
+19 years old
+$31.98
+
+Turkey
+56.26 kg
+8 years old
+$127.63
+
+Sheep
+69.58 kg
+5 years old
+$88.86
+
+Cow
+61.75 kg
+14 years old
+$117.71
+
+Rooster
+71.92 kg
+9 years old
+$110.21
+
+Rooster
+94.15 kg
+14 years old
+$103.29
+
+Rooster
+16.48 kg
+14 years old
+$79.86
+
+Mule
+51.94 kg
+12 years old
+$122.21
+
+Mule
+91.63 kg
+3 years old
+$94.17
+
+Horse
+46.00 kg
+2 years old
+$20.67
+
+Rabbit
+60.94 kg
+2 years old
+$76.75
+
+Rabbit
+15.85 kg
+9 years old
+$71.32
+
+Horse
+25.03 kg
+13 years old
+$128.90
+
+Rabbit
+40.24 kg
+3 years old
+$68.09
+
+Cow
+80.29 kg
+8 years old
+$61.28
+
+Goat
+97.30 kg
+7 years old
+$37.51
+
+Pig
+76.42 kg
+6 years old
+$90.59
+
+Rabbit
+30.52 kg
+2 years old
+$119.90
+
+Sheep
+17.02 kg
+9 years old
+$89.44
+
+Mule
+28.18 kg
+10 years old
+$44.21
+
+Rooster
+21.88 kg
+12 years old
+$110.56
+
+Cow
+12.61 kg
+7 years old
+$82.52
+
+Sheep
+67.87 kg
+7 years old
+$62.90
+
+Horse
+10.00 kg
+12 years old
+$37.98
+
+Rabbit
+25.84 kg
+17 years old
+$41.90
+
+Cow
+31.87 kg
+4 years old
+$119.67
+
+Rooster
+92.71 kg
+18 years old
+$34.98
+
+Horse
+43.39 kg
+15 years old
+$112.75
+
+Duck
+41.50 kg
+13 years old
+$93.48
+
+Donkey
+36.55 kg
+12 years old
+$78.13
+
+Rabbit
+94.24 kg
+19 years old
+$45.01
+
+Donkey
+91.45 kg
+10 years old
+$18.71
+
+Pig
+68.14 kg
+6 years old
+$112.17
+
+Horse
+76.60 kg
+3 years old
+$121.06
+
+Goat
+98.74 kg
+3 years old
+$30.82
+
+Pig
+28.18 kg
+7 years old
+$40.05
+
+Cow
+40.87 kg
+6 years old
+$88.98
+
+Rabbit
+86.23 kg
+5 years old
+$48.01
+
+Goat
+21.79 kg
+11 years old
+$64.40
+
+Cow
+40.42 kg
+16 years old
+$69.71
+
+Cow
+46.90 kg
+13 years old
+$82.17
+
+Sheep
+77.50 kg
+10 years old
+$34.17
+
+Chicken
+93.25 kg
+13 years old
+$67.05
+
+Mule
+39.07 kg
+2 years old
+$59.78
+
+Turkey
+64.18 kg
+2 years old
+$91.29
+
+Pig
+27.91 kg
+18 years old
+$123.60
+
+Turkey
+84.34 kg
+8 years old
+$23.78
+
+Donkey
+24.58 kg
+18 years old
+$73.29
+
+Cow
+91.27 kg
+9 years old
+$24.13
+
+Horse
+92.80 kg
+12 years old
+$26.32
+
+Horse
+62.56 kg
+18 years old
+$93.59
+
+Mule
+32.86 kg
+3 years old
+$81.71
